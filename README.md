@@ -1,3 +1,2 @@
-Well I'am @Natural-Brother, I have some bases in java, web, and python.
-
-did you know that octopus actually have 3 heart? Me not.
+Hello,
+I am a Student in highschool, i have some basic knowledge in C++, Python and Web languages.

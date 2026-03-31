@@ -1,2 +1,2 @@
 Hello,
-I am a Student in highschool, i have some basic knowledge in C++, Python and Web languages.
+I am a student in highschool, i got some basic knowledge in C++, Python and Web languages.
